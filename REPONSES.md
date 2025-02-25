@@ -1,8 +1,8 @@
 ## REPONSES :
 1. Peut-on modifier l'âge d'un chien une fois qu'il a été créé (essayez de donner 10 ans à chien3 pour vérifier) ? 
-non car il n ia pas de methode setage
+non car  n ia pas de methode setage
 
-2. Que se passe-t-il si on modifie le nom de chien2 ?
+2. Que seil passe-t-il si on modifie le nom de chien2 ?
 tout les autre chien auront le meme nom
 
 3. Pourquoi tous les chiens ont tous le même nom ?
